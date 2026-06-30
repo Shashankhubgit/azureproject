@@ -1,0 +1,15 @@
+{
+	"name": "anshdatafactoryy",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11129f9d-914c-4ebb-b6df-e6dce0e4f176",
+		"tenantId": "e82ff6c9-a804-4bee-93ce-23f1bd0fd8f9"
+	}
+}
